@@ -1,8 +1,9 @@
 [
     {
-        "fileHash": "sha256-192e5dfa59e4674e84d1090486bf9525315883a87b9dfde4f6e89ce903790c64",
+        "fileHash": "sha256-a57fe12b9dd760e0b52d9cd17f2af6afe0bf4c5881f75441e817a999de24ed88",
         "apiVersion": 1,
-        "fileSize": 24135,
+        "repositoryUrl": "https://github.com/shuvo/App",
+        "fileSize": 20661,
         "status": 3,
         "authors": [
             
