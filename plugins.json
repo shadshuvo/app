@@ -1,15 +1,18 @@
 [
-    {
-        "fileHash": "sha256-0bd5e3969ff3f69b9b47b05bb9b2d323cc53d40974c8f96b877ca381c215b7cd",
-        "apiVersion": 1,
-        "fileSize": 23904,
-        "status": 3,
-        "authors": [
-            
-        ],
-        "version": -1,
-        "internalName": "MyStreamProvider",
-        "url": "",
-        "name": "MyStreamProvider"
-    }
+  {
+    "name": "MyStreamProvider",
+    "internalName": "MyStreamProvider",
+    "version": 1,
+    "versionCode": 1,
+    "authors": [
+      "Shadman Shuvo"
+    ],
+    "description": "My custom streaming provider.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "language": "en",
+    "url": "https://raw.githubusercontent.com/shadshuvo/app/main/MyStreamProvider.cs3"
+  }
 ]
