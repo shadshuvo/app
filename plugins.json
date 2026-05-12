@@ -1,16 +1,16 @@
 [
     {
-        "fileHash": "sha256-7abe5a5de26e5b3f0e23af7b68d0fe9179bb24226c6c81d986b8d0bd105e830a",
+        "fileHash": "sha256-a369b559b79ae385e79c0e1b818d27237d508e40fb997a75e3806b07ab9d6ba4",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shadshuvo/app",
-        "fileSize": 28048,
+        "fileSize": 24086,
         "status": 3,
         "authors": [
             
         ],
         "version": 1,
         "internalName": "MyStreamProvider",
-        "url": "https://raw.githubusercontent.com/shadshuvo/app/main/%s",
+        "url": "https://raw.githubusercontent.com/shadshuvo/app/main/MyStreamProvider.cs3",
         "name": "MyStreamProvider"
     }
 ]
